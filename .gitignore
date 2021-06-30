@@ -1,0 +1,5 @@
+# Ignore object and header dependecies files
+output/
+
+# Ignore executable output of project
+travel.exe
