@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include"define.h"
 
+
 typedef struct USER
 {
     int friend_list[MAX_FRIENDS];
